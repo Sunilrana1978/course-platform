@@ -481,3 +481,4 @@ PAYMENT_GATEWAY=paypal ./start.sh
 
 No other code changes are required. The idempotency logic, state machine, and access-granting all operate on the abstract interface.
 # course-platform
+# course-platform
